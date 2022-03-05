@@ -11,3 +11,6 @@ content -
 6. link functioning 
 
 
+delete unnecessary property/heading in HTML file
+deleted class property -seo in header section 
+deleted HTML element -div - parent heading for the unordered list 
