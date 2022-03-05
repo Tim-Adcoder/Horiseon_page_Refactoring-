@@ -50,6 +50,7 @@ p {
     font-size: 16px;
 }
 
+/* Id instead of class */
 .hero {
     height: 800px;
     width: 100%;
