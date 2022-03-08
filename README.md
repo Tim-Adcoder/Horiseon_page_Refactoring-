@@ -38,10 +38,17 @@ I have deleted unnecessary property/heading in HTML file.
 + Deleted lesson tag <class:seo> in header section so that is more logical and effecient. 
 + Deleted HTML element -div - parent heading for the unordered list 
 
-What did you learn?
+8. comments
+I have added comments in each heading or most sub-heading so that reader from different baclground can understand content easier. 
+ 
+## What did you learn?
+I learn to test every small change I made as it might affact the page appearance. 
+
 What makes your project stand out?
 
+I have made the styling file as simple and logical as possible without changing the page appearance. The order of the CSS elements is followed the logic of the html file and almost no elements occured twice. 
 
+This helps the reader to understand the content easily. 
 
 
 
