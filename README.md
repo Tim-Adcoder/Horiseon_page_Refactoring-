@@ -1,9 +1,15 @@
-Hi, 
 
 Please find the site is published at https://tim-adcoder.github.io/Horiseon_page_Refactoring-/
 
-I was given the "Heriseon" webpage for refactoring to make it more accessaible  
+## What was your motivation?
 
+By refactoring the page, I'm hoping the this can be more accessible for people with disability, more effcient in internet searching, and easier to read for people reading the code. 
+
+## Why did you build this project? 
+Apart from the reasons above, I also want to have a better understanding in the work of web development and able to develop professional website that serve its purpose. 
+
+## What problem does it solve?
+In the priciple of not changing the webpage appearance, this refactoring has focused on the follow elements in its html and CSS files to achieve the above goals. 
 
 1. semantic html elements 
 
@@ -14,22 +20,29 @@ The starter code uses non-semantic tags <div>and<span> in the html file. After r
 
 3. icons & images with alt attributes
 
-The original html file contains no alt attributes in all images 
+The original html file contains no alt attributes in all images. All alt attributes have added on each images. 
 
 4. id/class 
+<id> sector is used to identify a single element and <class> sector is used to identify more than one. Therefore, the motified verision has attempted to suit each sector's purpose.  
+
 5. concise descriptive title 
-The starder code uses "website" named the page title and "hero" named the <class> attribute for the first image 
+The starder code uses "website" named the page title and "hero" named the <class> attribute for the first image. They has been changed to "Horiseon" and <digital-marketing-meeting> respectively so that its more concise and descriptive. 
+
 6. link functioning 
+All the links are tested and now functioned properly as before, one of the link did not link to the right location of the page.  
 
 7. Title elements are concise and descriptive 
 he starter code uses
 
+I have deleted unnecessary property/heading in HTML file.
++ Deleted lesson tag <class:seo> in header section so that is more logical and effecient. 
++ Deleted HTML element -div - parent heading for the unordered list 
 
-delete unnecessary property/heading in HTML file
-deleted lesson tag <class:seo> in header section so that is more logical and effecient. 
+What did you learn?
+What makes your project stand out?
 
-deleted HTML element -div - parent heading for the unordered list 
 
-Bonus: 
 
-I have also adjust the mock-up that suitable for a resolution smaller than 768px. I hope this adjustment suits your purpose. 
+
+
+
